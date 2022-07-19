@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <ctype.h>
 
-
 int main(){
 
     char pertanyaan[][100] = {"1. Apakah bumi itu bulat? : ",
-                            "2. Hewan apa yang paling lucu"
+                            "2. Hewan apa yang paling lucu",
                             "3. Berapa hasil 6/9 + 5/15"};
                             // cara bacanya 6 per 9(bukan 6 dibagi 9;( ) + 5 per 15
 
