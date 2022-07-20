@@ -3,15 +3,20 @@
 Sebelum kalian menggunakannya check terlebih dahulu apakah kalian sudah memiliki compiler untuk C yaitu gcc.
 Cara untuk mengetahui nya adalah lakukan langkah langkah berikut :
 
-Buka Command Prompt(untuk Windows), jika kalian menggunakan MacOs(Macbook) buka terminal.
+Buka Command Prompt(untuk Windows)
+jika kalian menggunakan MacOs(Macbook) buka terminal.
 
-Untuk Windows cara mengecek compiler adalah
+Cara mengecek compiler C di Windows dan MacOS.
+
+Windows.
 1. Buka Command Prompt atau bisa juga dengan Windows+r.
 2. Lalu ketik gcc --version.
-jika tidak muncul apa-apa berarti kalian blm mempunyai compiler gcc
+
 Untuk MacOS
 1. Buka Terminal.
 2. Ketik Clang --version
+
+jika tidak muncul apa-apa berarti kalian blm mempunyai compiler untuk C yaitu gcc.
 
 Cara mendownload nya untuk Windows dan MacOS.
 
@@ -28,8 +33,12 @@ MacOS.
 
 Dan terakhir kalian butuh IDE (Integrated Development Environment)
 Ada banyak IDE untuk bahasa pemrograman C.
+
 1. Vs Code (Visual Studio Code)
 2. Codelite
 3. JetBrains
 4. Notepad++
-IDE yang kusarankan adalah Visual Studio Code
+
+IDE yang disarankan adalah Visual Studio Code.
+
+
