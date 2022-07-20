@@ -12,7 +12,7 @@ Windows.
 1. Buka Command Prompt atau bisa juga dengan Windows+r.
 2. Lalu ketik gcc --version.
 
-Untuk MacOS
+MacOS
 1. Buka Terminal.
 2. Ketik Clang --version
 
