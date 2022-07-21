@@ -6,7 +6,7 @@ void sort(int array[], int size)
     {
         for(int v = 0; v < size - x - 1; v++) 
         { // kalau ingin mengubah urutan angka nya dari 20 ke 1 tinggal mengubah arah > menjadi <
-            if(array[v] < array[v+1]) // <<<<<<<<<<
+            if(array[v] > array[v+1]) // <<<<<<<<<<
             {        
                 int z = array[v];
                 array[v] = array[v+1];
