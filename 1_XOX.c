@@ -16,7 +16,6 @@ char checkWinner();
 void printWinner(char);
 
 int main(){
-    // ; "" '' / . > <
     char winner = ' ';
 
     resetBoard();
@@ -55,7 +54,7 @@ void resetBoard()
         }
 
     }
-} // ; "" '' / . > <
+} 
 
 void printBoard()
 {
@@ -83,7 +82,7 @@ void checkFreeSpaces()
         }
     }
     return freeSpaces;
-} // ; "" '' / . > <
+} 
 
 int playerMove()
 {
@@ -135,7 +134,7 @@ int computerMove()
         printWinner(' ');
     }
 }
-  // ; "" '' / . > <
+  
 char checkWinner()
 {
     for(int i = 0; i < 3; i++)
